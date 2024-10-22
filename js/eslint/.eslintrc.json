@@ -27,3 +27,4 @@
     },
     "ignorePatterns": ["**/jsdoc", "**/*.test.js"]
 }
+ 
